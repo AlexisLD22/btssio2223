@@ -1,0 +1,34 @@
+/* body */
+@import url("assets/css/body.css");
+
+/* header */
+@import url("assets/css/header.css");
+
+/* article */
+@import url("assets/css/business.css");
+
+/* trywatch */
+@import url("assets/css/trywatch.css");
+
+/* dashboard */
+@import url("assets/css/dashboard.css");
+
+/* partner */
+@import url("assets/css/partner.css");
+
+/* section */
+@import url("assets/css/option.css");
+
+/* collaborative */
+@import url("assets/css/collaborative.css");
+
+/* sub */
+@import url("assets/css/sub.css");
+
+body{
+    font-family:"Roboto";
+    background-image: url("assets/image/Ellipse.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* background-color: #00218F; */
+}

@@ -1,0 +1,22 @@
+.try_watch{
+    display: flex;
+    justify-content: center;
+}
+
+.try_watch a, .try_watch a:visited{
+    text-decoration: none;
+    border: solid;
+    border-radius: 15px;
+    padding: 20px 40px;
+    margin-top: 40px;
+}
+
+.try{
+    background-color: #fff;
+    color: #00218F;
+    margin-right: 10px;
+}
+
+.watch{
+    color: #fff;
+}

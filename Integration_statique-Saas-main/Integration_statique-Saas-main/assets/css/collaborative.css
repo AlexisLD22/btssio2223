@@ -1,0 +1,51 @@
+.collaborative{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F2F2FF;
+    margin-top: 50px;
+    padding: 0 100px;
+}
+
+.title_collab{
+    font-size: 50px;
+    color: #0C0047;
+    margin-left: 65px;
+    margin-top: 160px;
+}
+
+.para_collab{
+    color: #969696;
+    margin-left: 65px;
+    margin-right: 50px;
+}
+
+.icone_collab{
+    margin-top: 42px;
+    margin-left: 78px;
+}
+
+.icone{
+    margin-left: -10px;
+}
+
+.para_icone{
+    color: #343434;
+    margin-left: 5px;
+}
+
+.try_for_free{
+    display: inline-block;
+    text-decoration: none;
+    border: solid;
+    border-radius: 15px;
+    padding: 20px 40px;
+    color: #FFF;
+    background-color: #6A4BFF;
+    margin-left: 65px;
+    margin-top: 32px;
+}
+
+.dashboard2{
+    margin-top: 120px;
+}
+

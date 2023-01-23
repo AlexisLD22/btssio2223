@@ -1,0 +1,56 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 55px 100px;
+}
+
+.mainlogo{
+    align-content: center;
+    height: 100%;
+}
+
+.main_menu{
+    color: #fff;
+}
+
+ul{
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    align-content: center;
+}
+
+.main_menu a:link, .main_menu a:visited{  
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 40px;
+}
+
+.log_signup{
+    display: flex;
+    justify-content: space-between;
+}
+
+.log_signup a, .log_signup a:visited{
+    padding: 20px 40px;
+    text-decoration: none;
+    display: block;
+    border: solid;
+    border-color: #fff;
+    border-radius: 15px;
+}
+
+.login{
+    margin-right: 10px;
+    color: #fff;
+}
+
+.signup{
+    background-color: #ffffff;
+    color: #00218F;
+}
